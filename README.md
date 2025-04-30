@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drxkstarz
 - 👀 I’m interested in ... coding, discord, and true crime
 - 🌱 I’m currently learning ... cs50
-- 😄 Pronouns: ... rot , it , they
+- 😄 Pronouns: ... they/them
 - ⚡ Fun fact: ... i am non-binary
 
 <!---
